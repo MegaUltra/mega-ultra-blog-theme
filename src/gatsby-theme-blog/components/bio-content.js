@@ -7,10 +7,10 @@ import { Styled } from "theme-ui"
 
 export default () => (
   <Fragment>
-    This is where <Styled.a href="http://example.com/">your name</Styled.a>
-    {` `}
-    goes.
-    <br />
-    Or whatever, you make the rules.
+    Known for the throwback grindhouse exploitation feature length film <em>Left for Dead</em>,{` `}
+    <strong>
+    <Styled.a href="/">Mega Ultra Studios</Styled.a>
+    </strong> {` `}
+    creates unique original short films, music videos, and promotional videos for independent artists and small business.
   </Fragment>
 )
