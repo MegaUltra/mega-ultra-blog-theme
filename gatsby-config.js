@@ -13,7 +13,7 @@ module.exports = {
     social: [
       {
         name: `home`,
-        url: `https://megaultra.space`,
+        url: `/`,
       },
       {
         name: `email`,
